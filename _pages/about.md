@@ -39,4 +39,4 @@ latest_posts:
 
 **BSc**, Applied Physics, College of Physics and Optoelectronic Engineering, Shenzhen University.
 
-Research interests: 3D anomaly detection; continual learning.
+Research interests: 3D Anomaly Detection; Continual Learning.

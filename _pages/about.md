@@ -33,4 +33,10 @@ latest_posts:
 
 <!-- Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them. -->
 
+**PhD student**, Computer Science and Technology, College of Computer Science and Software Engineering, Shenzhen University (Supervisor: Prof. Can Gao).
 
+**MSc**, Computer Science and Technology, College of Computer Science and Software Engineering, Shenzhen University (Supervisor: Prof. Zhihui Lai).
+
+**BSc**, Applied Physics, College of Physics and Optoelectronic Engineering, Shenzhen University.
+
+Research interests: 3D anomaly detection; continual learning.

@@ -384,8 +384,8 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-collaboration-is-welcome-amp-lt-layout-post-date-2015-10-22-15-59-00-0400-inline-true-related-posts-false-a-simple-inline-announcement-amp-gt",
-          title: 'Collaboration is welcome! &amp;amp;lt;!– — layout: post date: 2015-10-22 15:59:00-0400 inline: true related_posts:...',
+            },},{id: "news-collaboration-is-welcome",
+          title: 'Collaboration is welcome!',
           description: "",
           section: "News",},{id: "projects-project-1",
           title: 'project 1',
